@@ -5,7 +5,7 @@ Cara penggunaan :
 
 1. Di dalam folder yang bernama CODEC AUDIO anda terdapat 4 File yaitu "NamaCodec.kext", "AppleHDA.kextx" dan "Patch OTF.rtf".  Letakkan file "NamaCodec.kext" ke /EFI/Clover/Kexts/10.10 dan install file "AppleHDA.kext" menggunakan Kext Utility.
 2. Adapun file AppleHDA yang digunakan masih berstatus NATIVE, belum dipatch dan akan diusahakan seperti itu dan sebagai pengganti patch yang biasa digunakan via script bcc9 digantikan dengan Patch Binary via OTF / Kernel and Kext Patch Clover. Untuk itu di dalam file "Patch OTF.rtf" sudah terdapat script atau value yang diimplementasikan ke CLOVER Configurator yang akan tertulis di "config.plist" atau bila config.plist dibuka via textedit maka value value ini dipaste diantara
-<p><</p>key>KextsToPatch</key>
+<key>KextsToPatch</key>
 <array>
 ...<------- Letak Value yang tertulis di "Patch OTF.rtf"
 <array>
