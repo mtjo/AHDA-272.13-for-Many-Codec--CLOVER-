@@ -8,7 +8,7 @@ Cara penggunaan :
 <p/>/---------------------------------------/
 <p/><a><</a>key>KextsToPatch<<a>/</a>key>
 <p/><a><</a>array>
-<p/>...<------- Paste Value yang tertulis di "Patch OTF.rtf"
+<p/>............<------- Paste Value yang tertulis di "Patch OTF.rtf"
 <p/><<a>/</a>array>
 <p/>/---------------------------------------/
 3. Khusus untuk Kext AppleHDA yang disediakan di Repository ini adalah menggunakan "Sound Layout 3" atau "HDEF=3" silahkan inject LayoutID anda via Clover atau DSDT agar menjadi LayoutID = 3.
