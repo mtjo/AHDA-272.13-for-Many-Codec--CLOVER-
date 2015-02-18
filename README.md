@@ -1,4 +1,4 @@
-# AHDA-272.4-for-Many-Codec--CLOVER-
+# AHDA-272.4-for-Many-Codec--CLOVER- [Especially OS X Yosemite 10.10.2]
 Platform, Layout dan HDA Config Default from Mirone Thread : http://www.insanelymac.com/forum/topic/298663-applehda-for-yosemite/
 
 Cara penggunaan :
