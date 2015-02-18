@@ -24,6 +24,6 @@ Cara penggunaan :
 Salam Hackintosh Indonesia 
 <p/>
 <p/>
-<p/
+<p/>
 
 = Filsafat Musafir Hati = 
