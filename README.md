@@ -49,10 +49,10 @@ Dengan pengertian :
 
 ###9. Updateable and Still Native
 - Seharusnya, bila nanti ada update AppleHDA Official maka otomatis AppleHDA system tidak akan kembali error. Karena apa?? Karena file layout3 dan platform tidak ter "overwrite" dikarenakan Apple biasanya melakukan update pada file yang sama sehingga yang di "overwrite" adalah file "layout3.xml.zlib dan platform.xml.zlib" bukan "layout3.zml.zlib dan platform.zml.zlib"
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 Salam Hackintosh Indonesia 
 
 
