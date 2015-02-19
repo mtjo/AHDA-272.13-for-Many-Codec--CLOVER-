@@ -42,12 +42,9 @@ Dengan pengertian :
 - File akan terus diusahakan ditambah,, tapi secara pelan pelan karena yang namanya manusia juga banyak kegiatan :)
 
 ###7. Minus and Trouble
-- Untuk yang tidak berfungsi silahkan berkomentar di bawah dengan sopan dan jelas, coz yang namanya memodifikasi tidak ada yang "JOSH" 100% :)
+- Untuk yang tidak berfungsi silahkan dicek kembali langkah langkah nya dan kalau masih tidak bisa segera tinggalkan daripada Notebook anda menjadi korban dan rambut anda rontok karena kelamaan mikir
 
-###8. Never Do
-- No PM just KOMENTAR di kolom komentar
-
-###9. Updateable and Still Native
+###8. Updateable and Still Native
 - Seharusnya, bila nanti ada update AppleHDA Official maka otomatis AppleHDA system tidak akan kembali error. Karena apa?? Karena file layout3 dan platform tidak ter "overwrite" dikarenakan Apple biasanya melakukan update pada file yang sama sehingga yang di "overwrite" adalah file "layout3.xml.zlib dan platform.xml.zlib" bukan "layout3.zml.zlib dan platform.zml.zlib"
 <br/>
 <br/>
