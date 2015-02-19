@@ -53,7 +53,7 @@ Dengan pengertian :
 <br/>
 <br/>
 <br/>
-Salam Hackintosh Indonesia 
-
-
-= Filsafat Musafir Hati =
+                Salam Hackintosh Indonesia 
+                <br/>
+                <br/>
+                = Filsafat Musafir Hati =
