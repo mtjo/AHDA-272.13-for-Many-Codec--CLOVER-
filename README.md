@@ -32,20 +32,23 @@ Dengan pengertian :
                         <p/>............<------- Paste Value yang tertulis di "Patch OTF.rtf"
                         <p/><<a>/</a>array>
 
-###4. Updateable and Still Native
+###4. Cara Kerja Patch
 - File Platform.xml.zlib dan Layout3.xml.zlib yang terdapat di dalam Native AppleHDA.kext/Contents/Resources/ sama sekali tidak di overwrite, lantas bagaimana menggantikannya dengan value value sesuai codec masing masing? Jawabanya adalah sekali lagi kita membuat value value itu tertulis dalam file yang berbeda extension yaitu file "Platform.zml.zlib" dan "Layout3.zml.zlib". Perhatikan ada perbedaan "xml.zlib vs zml.zlib", agar system membaca file zml.zlib ini maka kita melakukan Patch OTF sekali lagi dengan memasukkan value yang kembali sudah ditulis di file "Patch OTF.rtf". Silahkan diperhatikan, dipelajari dan diimplementasikan.
 
-###5. Apabila terdapat masalah internal microphone yang tidak berfungsi atau lain sebagainya mungkin dikarenakan path map dan lain lain yang belum sempurna dan bila ingin memodifikasi silahkan ikuti post ini http://www.insanelymac.com/forum/topic/295001-guide-to-patch-applehda-for-your-codec/, sekali lagi file platform.zml.zlib dan layout3.zml.zlib adalah hasil dari "MASAKAN" Mirone yang link post telah dijelaskan di bagian teratas.
+###5. Modifikasi
+- Apabila terdapat masalah internal microphone yang tidak berfungsi atau lain sebagainya mungkin dikarenakan path map dan lain lain yang belum sempurna dan bila ingin memodifikasi silahkan ikuti post ini http://www.insanelymac.com/forum/topic/295001-guide-to-patch-applehda-for-your-codec/, sekali lagi file platform.zml.zlib dan layout3.zml.zlib adalah hasil dari "MASAKAN" Mirone yang link post telah dijelaskan di bagian teratas.
 
 ###6. Support 
 - File akan terus diusahakan ditambah,, tapi secara pelan pelan karena yang namanya manusia juga banyak kegiatan :)
 
 ###7. Minus and Trouble
 - Untuk yang tidak berfungsi silahkan berkomentar di bawah dengan sopan dan jelas, coz yang namanya memodifikasi tidak ada yang "JOSH" 100% :D
----------------------
-8. No PM just KOMENTAR di kolom komentar
--------------------
-9. Seharusnya, bila nanti ada update AppleHDA Official maka otomatis AppleHDA system tidak akan kembali error. Karena apa?? Karena file layout3 dan platform tidak ter "overwrite" dikarenakan Apple biasanya melakukan update pada file yang sama sehingga yang di "overwrite" adalah file "layout3.xml.zlib dan platform.xml.zlib" bukan "layout3.zml.zlib dan platform.zml.zlib"
+
+###8. Never Do
+- No PM just KOMENTAR di kolom komentar
+
+###9. Updateable and Still Native
+- Seharusnya, bila nanti ada update AppleHDA Official maka otomatis AppleHDA system tidak akan kembali error. Karena apa?? Karena file layout3 dan platform tidak ter "overwrite" dikarenakan Apple biasanya melakukan update pada file yang sama sehingga yang di "overwrite" adalah file "layout3.xml.zlib dan platform.xml.zlib" bukan "layout3.zml.zlib dan platform.zml.zlib"
 
 
 
