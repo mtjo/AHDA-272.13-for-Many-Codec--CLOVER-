@@ -42,7 +42,7 @@ Dengan pengertian :
 - File akan terus diusahakan ditambah,, tapi secara pelan pelan karena yang namanya manusia juga banyak kegiatan :)
 
 ###7. Minus and Trouble
-- Untuk yang tidak berfungsi silahkan berkomentar di bawah dengan sopan dan jelas, coz yang namanya memodifikasi tidak ada yang "JOSH" 100% :D
+- Untuk yang tidak berfungsi silahkan berkomentar di bawah dengan sopan dan jelas, coz yang namanya memodifikasi tidak ada yang "JOSH" 100% :)
 
 ###8. Never Do
 - No PM just KOMENTAR di kolom komentar
