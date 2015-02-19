@@ -11,12 +11,12 @@ http://www.insanelymac.com/forum/topic/298663-applehda-for-yosemite/
 ###1 LayoutID
 - Khusus untuk Kext AppleHDA for Notebook yang disediakan di Repository ini adalah menggunakan "Sound Layout 3" atau "HDEF=3" silahkan inject LayoutID anda via Clover atau DSDT agar menjadi LayoutID = 3. 
 
-- Khusus untuk Kext AppleHDA  for Desktop yang disediakan di Repository ini adalah menggunakan "Sound Layout 5, 7 dan 9".
+- Khusus untuk Kext AppleHDA  for Desktop yang disediakan di Repository ini adalah menggunakan "Sound Layout 5, 7 dan 9".	
 Dengan pengertian :
 
-| Layout_ID 5 = 3 ports supported (Pink, Green, Blue) 
-| Layout_ID 7 = 5/6 ports supported (Grey, Black, Laranja, Pink, Green, Blue) 
-| Layout_ID 9 = 5/6 ports supported (Grey, Black, Laranja, Pink, Green, Blue, CodecAddress: 2)
+        Layout_ID 5 = 3 ports supported (Pink, Green, Blue) 
+        Layout_ID 7 = 5/6 ports supported (Grey, Black, Laranja, Pink, Green, Blue) 
+        Layout_ID 9 = 5/6 ports supported (Grey, Black, Laranja, Pink, Green, Blue, CodecAddress: 2)
 
 Verifikasi status LayoutID Audio anda dengan membuka IOREG dan ketik "HDEF" dipencarian. Lihat posisi layoutID anda, untuk layout3 seharusnya tertulis "layout-id Data <03 00 00 00> di IOREG. Pastikan Codec Audio terbaca di DPCI Manager, lakukan semua ini sebelum melangkah pada penginstallan kext pada file yang disediakan di REPOSITORY.
 
