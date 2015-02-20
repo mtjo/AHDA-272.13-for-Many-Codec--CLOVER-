@@ -22,7 +22,7 @@ Dengan pengertian :
 ```c
 layout-id Data <03 00 00 00>
 ```
--Pastikan Codec Audio terbaca di DPCI Manager, lakukan semua ini sebelum melangkah pada penginstallan kext pada file yang disediakan di REPOSITORY.
+- Pastikan Codec Audio terbaca di DPCI Manager, lakukan semua ini sebelum melangkah pada penginstallan kext pada file yang disediakan di REPOSITORY.
 
 - Inject Audio ID bisa melalui Inject  Clover di config.plist, HDAEnabler (download dari Repository ini dibagian HDAEnabler dan install salah satu sesuai dengan layout ID yang diinginkan), DSDT atau edit org.chameleon.plist
 
