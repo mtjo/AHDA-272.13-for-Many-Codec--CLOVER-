@@ -18,7 +18,11 @@ Dengan pengertian :
         Layout_ID 7 = 5/6 ports supported (Grey, Black, Laranja, Pink, Green, Blue) 
         Layout_ID 9 = 5/6 ports supported (Grey, Black, Laranja, Pink, Green, Blue, CodecAddress: 2)
 
-- Verifikasi status LayoutID Audio anda dengan membuka IOREG dan ketik "HDEF" dipencarian. Lihat posisi layoutID anda, untuk layout3 seharusnya tertulis "layout-id Data <03 00 00 00> di IOREG. Pastikan Codec Audio terbaca di DPCI Manager, lakukan semua ini sebelum melangkah pada penginstallan kext pada file yang disediakan di REPOSITORY.
+- Verifikasi status LayoutID Audio anda dengan membuka IOREG dan ketik "HDEF" dipencarian. Lihat posisi layoutID anda, untuk layout3 seharusnya tercantum seperti dibawah di IOREG 
+```c
+layout-id Data <03 00 00 00>
+```
+-Pastikan Codec Audio terbaca di DPCI Manager, lakukan semua ini sebelum melangkah pada penginstallan kext pada file yang disediakan di REPOSITORY.
 
 - Inject Audio ID bisa melalui Inject  Clover di config.plist, HDAEnabler (download dari Repository ini dibagian HDAEnabler dan install salah satu sesuai dengan layout ID yang diinginkan), DSDT atau edit org.chameleon.plist
 
