@@ -1,7 +1,7 @@
 #AHDA-272.4-for-Many-Codec--CLOVER- [Especially OS X Yosemite 10.10.2]
 
 ##===== Main Link======
-https://github.com/andreszerocross/AHDA-272.4-for-Many-Codec--CLOVER-/
+https://github.com/andreszerocross/AHDA-272.13-for-Many-Codec--CLOVER-/
 ##===================
 
 ##Platform, Layout dan HDA Config Default from Mirone post:
